@@ -6,4 +6,4 @@ Swampy development was funded via the Future Deltas programme of Utrecht Univers
 
 Hope you will enjoy the SWAMPy tools to the fullest! 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/danzamrsky/SWAMPy-tools/blob/main/swampy_icon.png)
