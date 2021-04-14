@@ -8,6 +8,6 @@ Hope you will enjoy the SWAMPy tools to the fullest!
 
 
 
-<a href="url"><img src="https://github.com/danzamrsky/SWAMPy-tools/blob/main/swampy_icon.png" align="middle" height="600" width="600" ></a>
+<a href="url"><img src="https://github.com/danzamrsky/SWAMPy-tools/blob/main/swampy_icon.png" text-align="center" height="600" width="600" ></a>
 
 ![Image of Yaktocat](https://github.com/danzamrsky/SWAMPy-tools/blob/main/swampy_icon.png)
