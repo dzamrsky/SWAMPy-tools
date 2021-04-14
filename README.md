@@ -1,4 +1,4 @@
-# swampy
+# swampytools
 
 Welcome to the swampy QGIS plugin repository! Swampy helps users to build coastal groundwater models (2D only so far) using the Flopy library to implement SEAWAT models. The user can  quickly set up a SEAWAT model at a desired location along the global coastline via an interface that splits the setup stages into multiple tabs. Starting at the geographical location and grid size defintion, followed by hydrogeological settings, specifying initial conditions, stress periods and boundary conditions and finally defining SEAWAT parameters before running the model itself. Once the model is succesfully terminated the user can plot the groundwater salinity distribution at each model time step.
 
