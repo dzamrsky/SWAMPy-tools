@@ -6,6 +6,6 @@ Swampy development was funded via the Future Deltas programme of Utrecht Univers
 
 Hope you will enjoy the SWAMPy tools to the fullest! 
 
-<a href="url"><img src="https://github.com/danzamrsky/SWAMPy-tools/blob/main/swampy_icon.png" align="center" height="48" width="48" ></a>
+<a href="url"><img src="https://github.com/danzamrsky/SWAMPy-tools/blob/main/swampy_icon.png" align="center" height="400" width="400" ></a>
 
 ![Image of Yaktocat](https://github.com/danzamrsky/SWAMPy-tools/blob/main/swampy_icon.png)
