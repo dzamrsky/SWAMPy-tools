@@ -4,6 +4,8 @@ Welcome to the SWAMPy tools QGIS plugin repository! Swampy helps users to build 
 
 Swampy development was funded via the Future Deltas programme of Utrecht University and via Deltares research institute and is still under further development which will bring new features in the future. If you have any issues with installing/using swampy or have suggestions for features you would like to have included in future versions please contact me at daniel.zamrsky@gmail.com! 
 
+<b>Please beware that you need to have a QGIS version 3.16 or higher to use this plugin! (No guarantees for lower versions of QGIS)<b>
+
 Hope you will enjoy the SWAMPy tools to the fullest! 
 <br>
 <br>
